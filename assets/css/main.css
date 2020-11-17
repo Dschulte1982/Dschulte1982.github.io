@@ -2945,7 +2945,7 @@ input, select, textarea {
 
 			.gallery a img {
 				display: block;
-				height: 25vw;
+				height: 27vw;
 				min-height: 18rem;
 				object-fit: cover;
 				object-position: center;
@@ -2961,7 +2961,7 @@ input, select, textarea {
 				}
 
 			.gallery a.portrait img {
-				height: 32vw;
+				height: 30vw;
 			}
 
 		.gallery .modal {
