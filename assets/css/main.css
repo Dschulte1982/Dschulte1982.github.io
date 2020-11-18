@@ -72,6 +72,11 @@ input, select, textarea {
 	appearance: none;
 }
 
+.live-and-github {
+	font-weight: 700;
+	text-decoration: none;
+}
+
 /* Basic */
 
 	@-ms-viewport {
