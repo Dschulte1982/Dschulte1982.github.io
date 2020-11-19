@@ -92,7 +92,7 @@ input, select, textarea {
 	overflow: hidden;
 	text-overflow: ellipsis;
 	white-space: nowrap;
-	margin: 0 0 0 20%;
+	margin: 0 0 0 50%;
 }
 
 /* Basic */
