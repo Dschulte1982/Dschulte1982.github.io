@@ -82,8 +82,8 @@ input, select, textarea {
 	border-radius: 3px;
 	background-color: #43d9b8;
 	color: white;
-	height: 4vw;
-	width: 7vw;
+	height: 3vw;
+	width: 6vw;
 	text-align: center;
 	text-transform: uppercase;
 	padding: 0 0.5vw;
@@ -91,6 +91,7 @@ input, select, textarea {
 	display: inline-block;
 	overflow: hidden;
 	text-overflow: ellipsis;
+	white-space: nowrap;
 }
 
 /* Basic */
