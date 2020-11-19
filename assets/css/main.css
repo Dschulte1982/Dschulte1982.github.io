@@ -77,6 +77,13 @@ input, select, textarea {
 	text-decoration: none;
 }
 
+.about-me-button {
+	border: 1px solid blue;
+	color: white;
+	height: 3vw;
+	width: 5vw;
+}
+
 /* Basic */
 
 	@-ms-viewport {
